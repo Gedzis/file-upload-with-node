@@ -1,4 +1,4 @@
-file-upload-with-node
+File upload with Node, Express
 =====================
 
-File upload with Express.js and jQuery File Upload
+File upload with Node.js with Express.js 
